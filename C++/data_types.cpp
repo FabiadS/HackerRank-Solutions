@@ -24,7 +24,7 @@ int main()
 
   cout << i << "\n"
        << l << "\n"
-       << c;
+       << c << "\n";
   cout << fixed << setprecision(3) << f << "\n";
   cout << fixed << setprecision(9) << d << "\n";
 
